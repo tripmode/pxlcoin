@@ -19,9 +19,9 @@ public:
      */
     enum Unit
     {
-        BTC,
-        mBTC,
-        uBTC
+        PXL,
+        mPXL,
+        uPXL
     };
 
     //! @name Static API
