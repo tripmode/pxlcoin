@@ -1,21 +1,77 @@
-Pxlcoin integration/staging tree
-================================
-
-http://www.coingen.io
+﻿PXLCOIN
 
 Copyright (c) 2009-2013 Bitcoin Developers
+(c) 2014 PXLcoin Developers
 
-What is Pxlcoin?
-----------------
+Official Sites
+http://www.pxlcoin.com
+https://twitter.com/pxlcoin
 
-Pxlcoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Pxlcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Pxlcoin is also the name of the open source
-software which enables the use of this currency.
+About PXL Coin
+The Million Dollar Homepage was created in 2005, where people could purchase pixels on the site for $1 and then upload an image and hyperlink.  As people began buying up those pixels and uploading their images, the homepage was filled out and internet history was created.  
 
-For more information, as well as an immediately useable, binary version of
-the Pxlcoin client software, see http://www.coingen.io.
+Today marks the beginning of a new era! PXLCoin.com contains a new canvass for the cryptocurrency community. Instead of charging "real" money, each pixel on the site can be purchased using PXLs.  Upload whatever your imagination desires - your clan logo, pictures of your doge, a business logo or advertisement - whatever you want.  And the image can also link to a web URL.
+
+So let's see what you all can come up. Please keep it clean.
+
+Basic Coin Info (nothing fancy)
+10,000,000 Total Coins
+100 Second Blocks
+25 PXL Coins Per Block
+Block Reward halves every 200,000 blocks
+NO PREMINED COINS
+
+Exchanges
+Use this thread until Exchange added -https://bitcointalk.org/index.php?topic=419201
+
+Mining Pool
+http://pool.pxlcoin.com
+http://pxl.minar.cc/
+http://pxl.bitember.com
+
+Block Explorer
+http://cryptexplorer.com/chain/PxlCoin
+
+http://PXLCOIN.COM
+
+2,073,600 total pixels for sale (1920x1080p)
+Site is currently 1000x1000 but will be upgraded later
+First 500,000 pixels on site cost 1 PXL Coin each
+Second 500,000 pixels cost 2 PXL Coin each
+Third 500,000 pixels cost TBD
+Fourth 500,000 pixels costs TBD
+Last 73,600 pixels cost TBD!
+
+Articles
+http://www.cryptoarticles.com/crypto-news/2014/1/16/pxl-coin-a-new-canvas-for-cryptocurrency
+
+Downloads
+
+http://www.pxlcoin.com/info/files/pxlcoin.rar
+
+Source
+https://github.com/tripmode/pxlcoin
+
+How to Start
+Using the following nodes to join the network:
+
+addnode=69.90.132.42
+addnode=76.74.178.235
+addnode=pxl.minar.cc
+
+Sample .conf File: pxlcoin.conf
+listen=1
+daemon=1
+server=1
+rpcuser=**Yourusername**
+rpcpassword=**Yourpassword**
+rpcport=17765
+rpcconnect=127.0.0.1
+addnode=69.90.132.42
+addnode=76.74.178.235
+
+Thank You
+Thank you to PalmDetroit for his help developing this coin, and thank you to http://www.383creative.com and http://www.jaredsnider.com
 
 License
 -------
